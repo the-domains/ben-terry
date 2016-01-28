@@ -1,0 +1,14 @@
+layout_spectrum: 0.6838407
+typography_spectrum: 0.3816264
+color:
+  saturation: 0.2473118
+  brandStrength: 0.8940769
+  lightness: 0.1272401
+  brandColors:
+    - '#050504'
+    - '#5B5B4D'
+    - '#FFFFFB'
+    - '#BEC6B3'
+    - '#5CFFFF'
+  rhythmicContrast: 0.6292216
+name: Ben Terry
